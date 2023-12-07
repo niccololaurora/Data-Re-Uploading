@@ -1,0 +1,5 @@
+
+===========================
+ Trial
+Initial parameters [ 0.22843427  0.01041402 -0.04095602 -0.11375463]
+Best parameters <tf.Variable 'Variable:0' shape=(4,) dtype=float64, numpy=array([ 0.13756985,  0.10834314, -0.04095602, -0.11375463])>
