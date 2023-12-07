@@ -16,11 +16,11 @@ def main():
     else:
         set_backend("numpy")
 
-    layers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    layers = [1,2,3,4,5,6,7,8,9,10]
     record = True
 
     for layer in layers:
-        folder = "Trial5_grid_" + str(test_samples) + "/"
+        folder = "Trial_l_" + str(test_samples) + "/"
         path = (
             "results/" + forma + "/layers_" + str(layer) + "/" + method + "/" + folder
         )
