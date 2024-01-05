@@ -1,6 +1,6 @@
 # Data-Re-Uploading
 
-Implementing the Quanvolutional NN described in [arXiv:1907.02085](https://arxiv.org/abs/1907.02085) with [Qibo](https://qibo.science/).
+Implementing the architecture described in [arXiv:1907.02085](https://arxiv.org/abs/1907.02085) with [Qibo](https://qibo.science/).
 
 Implemented:
 
@@ -55,7 +55,7 @@ As shown in the following images (on the left the prediction before training and
 </div>
 
 <br/>
-- 8 Layer
+- 8 Layers
 <br/>
 
 <div style="display:flex">
