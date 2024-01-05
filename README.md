@@ -19,5 +19,5 @@ The universal quantum classifier, as proposed in the aforementioned paper, is te
 As shown in the following images it improves its classification accuracy as the number of layers grow:
 
 <p align="center">
-<img src="results/circle/layers_1/l-bfgs-b/Trial_l_4000/Trial_before_training.png"  width="900"/> </p>
-<img src="results/circle/layers_1/l-bfgs-b/Trial_l_4000/Trial_after_training.png"  width="900"/> </p>
+<img src="results/circle/layers_1/l-bfgs-b/Trial_l_4000/Trial_before_training.png"  width="200"/> </p>
+<img src="results/circle/layers_1/l-bfgs-b/Trial_l_4000/Trial_after_training.png"  width="200"/> </p>
